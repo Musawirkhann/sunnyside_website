@@ -377,7 +377,7 @@ ul {
 }
 @media (max-width: 576px) {
   html {
-    font-size: 45%;
+    font-size: 50%;
   }
   .showcase {
     background: url(../images/mobile/image-header.jpg) no-repeat center
