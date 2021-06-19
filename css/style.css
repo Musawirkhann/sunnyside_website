@@ -285,6 +285,13 @@ ul {
   display: flex;
   align-items: center;
 }
+.footer .social img {
+  transition: all 0.3s ease-in-out;
+}
+.footer .social img:hover {
+  filter: invert(95%) sepia(5%) saturate(0%) hue-rotate(16deg) brightness(160%)
+    contrast(107%);
+}
 /* copyright */
 .attribution {
   background: var(--dark-moderate-footer);
