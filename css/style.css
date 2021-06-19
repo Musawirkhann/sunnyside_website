@@ -230,8 +230,8 @@ ul {
   flex-direction: column;
 }
 .testimonials .img-box {
-  height: 50px;
-  width: 50px;
+  height: 70px;
+  width: 70px;
   object-fit: cover;
 }
 .testimonials .img-box img {
