@@ -363,6 +363,7 @@ ul {
   }
   .navbar .hamburger {
     display: block;
+    cursor: pointer;
   }
   .our-services {
     grid-template-columns: 1fr;
